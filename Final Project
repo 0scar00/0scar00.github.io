@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Final Project</title>
+        <link rel="stylesheet" href="style.css">
+
+    </head>
+    <body>
+    
+    <img src="index_background.jpg">
+        <p><strong><em>Oscar's</em> Final Project<strong></p>
+        
+        <table width="800px">
+            <thead>
+                <tr>
+                    <th><a href="index.html"><img src="home_button.jpg"</a></th>
+                    <th><a href="JavaScrip's.html"><img src="javascripts_button.jpg"</a></th>
+                    <th><a href="apps.html"><img src="apps_button.jpg"</a></th>
+                    <th><a href="Aboutme.html"><img src="aboutme.button.jpg"</a></th>
+                </tr>
+            </thead>
+        </table>
+        
+     <p> 
+        FInal Project Overview     
+     </p>
+     
+      <p>
+                This is my ROCK, PAPER, SCISSORS game in which the user is able to compter against the computer.
+                The winner is decided after best out of three and the user will have to restart to keep playing.
+            </P>
+            
+           <p>
+<h2><a href="https://www.khanacademy.org/computer-programming/rock-paper-scissors-final-project/5116779474501632">Rock, Paper, Scissors final project</a></h2><script src="https://www.khanacademy.org/computer-programming/rock-paper-scissors-final-project/5116779474501632/embed.js?editor=no&buttons=no&author=no&embed=yes"></script>  
+</p>
+
+</body>
+</html>
